@@ -1,0 +1,1 @@
+This program will analyze blood samples to detect if a person is infected with a specific virus. It utilizes threads, monitor classes, and synchronization mechanisms such as unlock, lock, and deadlock prevention. Importantly, it reads input from a file to process the data efficiently
